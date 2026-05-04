@@ -8,7 +8,7 @@ Dưới đây là mô tả chi tiết các chức năng của hệ thống dựa
 
 - Đăng ký tài khoản: Người dùng cung cấp thông tin: Email, Mật khẩu, Họ tên, Vai trò, Quốc gia và Số điện thoại.
 
-= Đăng nhập: Xác thực an toàn bằng Email và Mật khẩu.
+- Đăng nhập: Xác thực an toàn bằng Email và Mật khẩu.
 
 - Xem thông tin cá nhân: Hiển thị hồ sơ của tài khoản đang đăng nhập, bao gồm cả trạng thái xác minh danh tính (KYC).
 
